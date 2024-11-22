@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_appcollab_descriptor">
+    <sys_appcollab_descriptor action="DELETE">
+        <composite_name>x_snc_source_rol_0.source control</composite_name>
+        <description/>
+        <name>source control</name>
+        <standard>true</standard>
+        <sys_class_name>sys_appcollab_descriptor</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 14:34:14</sys_created_on>
+        <sys_id>13ea9559c3825610f1384655df013120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>source control</sys_name>
+        <sys_package display_value="Source role test" source="x_snc_source_rol_0">423a9519c3825610f1384655df013155</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source role test">423a9519c3825610f1384655df013155</sys_scope>
+        <sys_update_name>sys_appcollab_descriptor_13ea9559c3825610f1384655df013120</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:34:14</sys_updated_on>
+    </sys_appcollab_descriptor>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Source role test">423a9519c3825610f1384655df013155</application>
+        <file_path/>
+        <instance_id>fd582777dba15dd43050ac44d4961998</instance_id>
+        <instance_name>empddunkerley1</instance_name>
+        <name>sys_appcollab_descriptor_13ea9559c3825610f1384655df013120</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_appcollab_descriptor"><sys_appcollab_descriptor action="INSERT_OR_UPDATE"><composite_name>x_snc_source_rol_0.source control</composite_name><description/><name>source control</name><standard>true</standard><sys_class_name>sys_appcollab_descriptor</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-22 14:34:14</sys_created_on><sys_id>13ea9559c3825610f1384655df013120</sys_id><sys_mod_count>0</sys_mod_count><sys_name>source control</sys_name><sys_package display_value="Source role test" source="x_snc_source_rol_0">423a9519c3825610f1384655df013155</sys_package><sys_policy/><sys_scope display_value="Source role test">423a9519c3825610f1384655df013155</sys_scope><sys_update_name>sys_appcollab_descriptor_13ea9559c3825610f1384655df013120</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-22 14:34:14</sys_updated_on></sys_appcollab_descriptor></record_update>]]></payload>
+        <payload_hash>-487455537</payload_hash>
+        <record_name>source control</record_name>
+        <reverted_from/>
+        <source>d23a9519c3825610f1384655df0131e8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 14:34:14</sys_created_on>
+        <sys_id>a9fa5559c3825610f1384655df013166</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193544b80170000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:34:14</sys_updated_on>
+        <type>App Collaboration Descriptor</type>
+        <update_guid>adfa55593b82561030aba1ff02f45165</update_guid>
+        <update_guid_history>adfa55593b82561030aba1ff02f45165:-487455537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-22 14:34:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_appcollab_descriptor">sys_appcollab_descriptor</sys_db_object>
+        <sys_id>5e9eeaf5ac93407db08aeee86e967e41</sys_id>
+        <sys_metadata>13ea9559c3825610f1384655df013120</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>source control</sys_name>
+        <sys_package display_value="Source role test" source="x_snc_source_rol_0">423a9519c3825610f1384655df013155</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Source role test">423a9519c3825610f1384655df013155</sys_scope>
+        <sys_scope_delete display_value="">ee87ff7716434bbda302c72b6bf73ec9</sys_scope_delete>
+        <sys_update_name>sys_appcollab_descriptor_13ea9559c3825610f1384655df013120</sys_update_name>
+        <sys_update_version display_value="sys_appcollab_descriptor_13ea9559c3825610f1384655df013120">a9fa5559c3825610f1384655df013166</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:34:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1c8e89194723311039450ff2846d43de</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>adela.cervantsz</sys_created_by>
+        <sys_created_on>2024-11-22 14:32:58</sys_created_on>
+        <sys_id>3aaadd19c3825610f1384655df01315d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Source role test" source="x_snc_source_rol_0">423a9519c3825610f1384655df013155</sys_package>
+        <sys_updated_by>adela.cervantsz</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:32:58</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

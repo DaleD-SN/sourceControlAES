@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_source_rol_0.user" name="x_snc_source_rol_0.user">123a9519c3825610f1384655df0131ef</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>adela.cervantsz</sys_created_by>
+        <sys_created_on>2024-11-22 14:31:00</sys_created_on>
+        <sys_id>963a9519c3825610f1384655df0131f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>123a9519c3825610f1384655df0131ef</sys_name>
+        <sys_package display_value="Source role test" source="x_snc_source_rol_0">423a9519c3825610f1384655df013155</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Source role test">423a9519c3825610f1384655df013155</sys_scope>
+        <sys_update_name>sys_embedded_help_role_963a9519c3825610f1384655df0131f0</sys_update_name>
+        <sys_updated_by>adela.cervantsz</sys_updated_by>
+        <sys_updated_on>2024-11-22 14:31:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
